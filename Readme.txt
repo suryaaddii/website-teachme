@@ -68,7 +68,6 @@ This project is based on the iLanding template by BootstrapMade.
 - Template URL: https://bootstrapmade.com/ilanding-bootstrap-landing-page-template/
 - License: https://bootstrapmade.com/license/
 
-The original template attribution is retained in `Readme.txt`.
 
 ## Author
 
